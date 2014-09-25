@@ -1,4 +1,4 @@
 beaverpick
 ==========
 
-College football game picking system
+NCAA College Football Prediction System
