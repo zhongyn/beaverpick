@@ -1,4 +1,4 @@
 beaverpick
 ==========
 
-college football game picking system
+College football game picking system
